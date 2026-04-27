@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TalhaAzeem2k
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DevOps Practices(CI/CD,Docker,Kubernetes,Jenkins)
 - 💞️ I’m looking to collaborate on in-depth knowledge of DevOps
 - 📫 How to reach me talha.azimi@gmail.com
